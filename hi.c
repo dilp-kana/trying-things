@@ -1,4 +1,9 @@
 #include <stdio.h>
+
+void myGOATEDMOSTFAVFUNCT(){
+    printf("eyeyeyeyyey \n");
+}
+
 int main(){
     printf("hello world\n");
     putchar(42);
