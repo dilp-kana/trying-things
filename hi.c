@@ -1,7 +1,12 @@
 #include <stdio.h>
 
+
 void myGOATEDMOSTFAVFUNCT(){
     printf("eyeyeyeyyey \n");
+}
+
+void myfunctionisthebest(){
+    printf("nononono\n");
 }
 
 int main(){
